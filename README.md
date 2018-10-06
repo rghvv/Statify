@@ -8,7 +8,7 @@ Statify displays the user's top artists and tracks for various time frames, and 
 4. Set appropriate environment variables (<code>CLIENT_ID</code>, <code>CLIENT_SECRET</code>, <code>REDIRECT_URI</code>).
 
 ## Usage:  
-1. Use the application by calling <code>python statify.fy <your_spotify_username></code>
+1. Use the application by calling <code>python statify.py <your_spotify_username></code>
 2. Follow instructions in terminal.
 
 ## Getting a Spotipy API Key:
