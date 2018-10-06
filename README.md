@@ -11,7 +11,7 @@ Statify displays the user's top artists and tracks for various time frames, and 
 1. Use the application by calling <code>python statify.py <your_spotify_username></code>
 2. Follow instructions in terminal.
 
-## Getting a Spotipy API Key:
+## Getting a Spotify API Key:
 1. Visit <a href='https://developer.spotify.com/dashboard/applications'>Spotify for developers</a>.
 2. Create a new app.
 3. Find **Client ID** and **Client Secret**.
