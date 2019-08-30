@@ -15,3 +15,6 @@ Statify displays the user's top artists and tracks for various time frames, and 
 1. Visit <a href='https://developer.spotify.com/dashboard/applications'>Spotify for developers</a>.
 2. Create a new app.
 3. Find **Client ID** and **Client Secret**.
+
+## Sample Result
+![Result](https://raw.githubusercontent.com/raghavverma2/Statify/master/result.png)
